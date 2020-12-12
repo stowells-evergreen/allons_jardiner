@@ -1,10 +1,12 @@
 # Allons jardiner => des légumes
 
 ## Table des matières
-----------------------
+=====================
 
 1. [En lasagne](#lasagne)
 2. [Par mois](#mois)
+
+=====================
 
 
 ### En lasagne : <a name="lasagne"></a>
